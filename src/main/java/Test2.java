@@ -1,5 +1,5 @@
 public class Test2 {
     public static void test1() {
-        System.out.println("test22");
+        int a = 2;
     }
 }
